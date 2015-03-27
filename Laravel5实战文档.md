@@ -143,7 +143,7 @@ Application ready! Build something amazing.
 Use of undefined constant MCRYPT_RIJNDAEL_128 - assumed 'MCRYPT_RIJNDAEL_128'
 ```
 
-这是您没有安装 PHP mcrypt 扩展导致。w
+这是您没有安装 PHP mcrypt 扩展导致。
 
 Mac 系统下安装 mcrypt：
 
