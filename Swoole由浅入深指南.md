@@ -73,6 +73,7 @@ swoole提供了非常完整的示例。需要配合其文档来进行学习理�
 
 + IDE自动提示工具：[必须看看](https://github.com/eaglewu/swoole-ide-helper)
 + WEB IM :[必须看看](https://github.com/matyhtf/php-webim)
++ swoole成员提示的视频：[http://www.tudou.com/home/shenzhe/](http://www.tudou.com/home/shenzhe/)
 
 
 
